@@ -1,7 +1,7 @@
 class Power extends ConsoleProgram {
 
   /**
-  * this code takes one number and puts it to the power of the second number
+  * this code takes one number and put it to the power of the second number
   * @author:N.Judd
   */
   
